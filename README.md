@@ -77,12 +77,7 @@ npm start -- balances --chain btc --address <sua_address> --network testnet
 npm test
 ```
 
-## Próximos passos sugeridos
-
-- Suporte de wallets para mais chains (BSC, Polygon, etc.).
-- Integração com provedores RPC configuráveis via variáveis de ambiente.
-- UI simples (desktop/web) para facilitar uso e visualização de tokens favoritos.
-
 ---
 
 Se quiser, posso: adicionar suporte a tokens BEP-20/Polygon, criar um painel web minimal ou integrar com provedores RPC populares (Infura/Alchemy) de forma segura. 😄
+
