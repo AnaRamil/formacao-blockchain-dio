@@ -1,0 +1,14 @@
+{
+  "favorites": {
+    "eth": [],
+    "btc": []
+  },
+  "defaultNetworks": {
+    "eth": "mainnet",
+    "btc": "testnet"
+  },
+  "rpc": {
+    "eth_mainnet": "",
+    "eth_testnet": ""
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+.env
+npm-debug.log
+yarn-error.log
+dist/
+build/
+*.key
+*.wif
+secrets.txt
+config.json
+.DS_Store
