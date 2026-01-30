@@ -79,5 +79,4 @@ npm test
 
 ---
 
-Se quiser, posso: adicionar suporte a tokens BEP-20/Polygon, criar um painel web minimal ou integrar com provedores RPC populares (Infura/Alchemy) de forma segura. 😄
 
